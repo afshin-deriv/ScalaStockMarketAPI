@@ -22,7 +22,6 @@ When a buy or sell request is received, it's sent to an instance of the Market a
 ## How to Compile and Run
 To compile and run the stock-market-api, follow these steps:
 
-```
 1. Make sure you have [Scala](https://www.scala-lang.org/) and [sbt](https://www.scala-sbt.org/) installed on your machine.
 2. Clone this repository to your local machine.
 3. Navigate to the project directory: `cd stock-market-api`
@@ -30,7 +29,7 @@ To compile and run the stock-market-api, follow these steps:
 5. Compile the project: `sbt compile`
 6. Run the API: `sbt run`
 7. The API will be running at `http://localhost:8080` by default.
-```
+
 
 
 ## Contributing
